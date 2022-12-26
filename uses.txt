@@ -1,0 +1,33 @@
+App
+  Db Server - MySQL
+  PHP framework - Laravel
+  Javscript library - Jquery
+  CSS framework - Bootstrap
+  Backend JS - Node JS
+  Programming Language - PHP / Java / DotNet
+  Version Control - Git
+  Dependency Manager - Composer
+  Process Manager - PM2 / Supervisor
+
+Development
+  Web browser - Chrome / Firefox
+  Development Environment - Sublime Text / VSCode
+  Messenger - Telegram / Whatsapp
+  API Client - Insomnia / Postman
+  Version Control Client - Sublime Merge & Bash Script
+  Db Client - TablePlus / Adminer
+  Local Web Server - Laravel Valet
+  Deployment - Deployer
+  Video Communication - Google Meet / MS Teams
+
+Productivity
+  Office Suite - LibreOffice / docs.google.com / office.com
+  Collab Tool - Figma / Zeplin  
+  Email - Gmail / Outlook
+  Project Management / Bug Tracking - ClickUp / Jira / Trello
+  Database Design (DD) - dbdocs.io
+  Entity Relationship Diagram (ERD) - app.diagrams.net (draw.io)
+
+Hosting
+  Cloud Server - DO / AWS / GCP
+  Git Repository - GitHub / GitLab / BitBucket
